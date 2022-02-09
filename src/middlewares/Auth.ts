@@ -25,7 +25,7 @@ export const AuthMiddleware = (
         })
     }
 
-    //Authenticateds
+    //Authenticated
     next()
 
 }
